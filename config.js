@@ -38,6 +38,11 @@ window.WEDDING = {
     { src: "assets/photo3.jpg"},
     { src : "assets/photo4.jpg"},
     {src : "assets/photo5.jpg"},
+    {src : "assets/photo6.jpg"},
+    {src : "assets/photo7.jpg"},
+    {src : "assets/photo8.jpg"},
+    {src : "assets/photo9.jpg"},
+    {src : "assets/photo10.jpg"},
   ],
 
   rsvp: [{ name: "ARUN SHUKLA", phone: "+918840052136" }],
