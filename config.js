@@ -47,9 +47,9 @@ window.WEDDING = {
       en: "Haldi / Mehendi",
       hi: "हल्दी / मेहंदी",
       start: "2026-12-07T18:30:00+05:30",
-      venue: "7/110 Savitri Nagar, New Jhunsi, Prayagraj",
+      venue: "7/110 Savitri Nagar New Jhunsi Prayagraj",
       venueHi: "७/११०, सावित्री नगर, न्यू झूँसी, प्रयागराज",
-      mapsQ: "7/110 Savitri Nagar New Jhunsi Prayagraj"
+      mapsQ: "CWP3+5RG Prayagraj, UttarPradesh"
     },
     {
       id: "sangeet",
@@ -58,7 +58,7 @@ window.WEDDING = {
       start: "2026-12-08T19:00:00+05:30",
       venue: "7/110 Savitri Nagar, New Jhunsi, Prayagraj",
       venueHi: "७/११०, सावित्री नगर, न्यू झूँसी, प्रयागराज",
-      mapsQ: "7/110 Savitri Nagar New Jhunsi Prayagraj"
+      mapsQ: "CWP3+5RG Prayagraj, UttarPradesh"
     },
     {
       id: "pheras",
